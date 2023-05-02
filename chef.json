@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "image": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-crosses-arms-points-side-isolated-orange-wall_141793-33303.jpg?w=900&t=st=1683021637~exp=1683022237~hmac=66ffe42e1dce1025923ba354c3fcf7ea1b23e0534d2d949152028861d9f7d2de",
+        "name": "Marcus Samuelsson",
+        "description": "This award-winning cookbook author is also an entrepreneur, media celebrity and one of the most famous chefs in the world. Marcus Samuelsson became an executive chef in New York at 24 and the youngest ever to receive a three-star restaurant review from The New York Times. As a food activist, he uses food, culture and history to spotlight Black cooking throughout the United States and the diaspora.",
+        "experience": "4.5-years",
+        "likes": "12.2K",
+        "recipe": "Beef-Tagine",
+        "number": "5",
+        "ingredient": "fried diced onion, vegetable oil, concentrated tomato, parsley, coriander",
+        "method": "You will find exact measurements in the recipe card, we will just quickly run through the whole idea here. Mix spices along with salt and pepper with the beef chunks. Coat well.Heat olive oil in a pot and sear the meat for about 10 minutes, till it browns up. The minute the meat hits the pot, you will be greeted with amazing aromas coming from the spices and you will be transported to that happy place, anticipating a great meal…",
+        "rating": "4.5"
+    },
+    {
+        "id": "2",
+        "image": "https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-points-up-puts-hand-waist-orange-with-copy-space_141793-62608.jpg?w=996&t=st=1683023057~exp=1683023657~hmac=4408fb19b34ca72dcb7fee3477a87fde6f81e351da39acad7e9bcfa8de8a6731",
+        "name": "Edna Lewis",
+        "description": "Edna Lewis, the grande dame of Southern cooking, created the blueprint for the farm-to-table lifestyle, “eating with the seasons, a sense of community and the satisfactory feeling that hard work is always rewarded by good food.” The Edna Lewis Foundation creates opportunities for African Americans in the fields of cooking, agriculture, food studies and storytelling.",
+        "experience": "4.4-years",
+        "likes": "11.2K",
+        "recipe": "South African Chakalaka",
+        "number": "7",
+        "ingredient": "beans, fresh veggies, onions, pepper, and tomatoes",
+        "method": "Heat the oil in a large saucepan over medium-high heat.Add the onion and cook for 2-3 minutes, until softened.Add the red and green bell peppers, carrots, garlic, and ginger. Cook for 5-7 minutes, stirring occasionally, until the vegetables are softened.Serve hot or cold as a side dish with grilled meats, bread, or pap (a South African porridge made from maize meal).",
+        "rating": "4.9"
+    },
+    {
+        "id": "3",
+        "image": "https://img.freepik.com/free-photo/smiling-young-blonde-male-cook-chef-uniform-cap-standing-with-closed-posture-holding-rolling-pin-looking-camera-isolated-orange-wall-with-copy-space_141793-113028.jpg?w=900&t=st=1683023714~exp=1683024314~hmac=a6bb72cc770e552fc024bd289ba9aeb39e6dd87b8babcaeb275acbf702feb343",
+        "name": "Alexander Smalls",
+        "description": "Chef Alexander Smalls also has bragging rights as a Grammy and Tony Award winner from his days as an acclaimed opera singer. This food visionary makes cuisine and music with equal passion and ingenuity. His Afro-Asian-American edibles seem so right, it’s as if they always existed. Smalls also turns Low Country fare into highfalutin cuisine, all with a nod to the South Carolina heritage and music that inspired him.",
+        "experience": "4.7-years",
+        "likes": "12.1K",
+        "recipe": "Maafe",
+        "number": "6",
+        "ingredient": "boneless chicken, large onion, 2-3 garlic cloves, 2-3 carrots, peeled",
+        "method": "In a large pot or Dutch oven, heat a tablespoon of oil over medium-high heat. Add the chicken (if using) and cook until browned on all sides, about 5-7 minutes. Remove the chicken and set it aside.Add the diced tomatoes (with their liquid) to the pot, along with the peanut butter. Stir well to combine and bring the mixture to a boil.",
+        "rating": "4.0"
+    },
+    {
+        "id": "4",
+        "image": "https://img.freepik.com/free-photo/confused-middle-aged-male-cook-chef-uniform-holding-ladle-knife-yellow-wall-with-copy-space_141793-36438.jpg?w=900&t=st=1683023702~exp=1683024302~hmac=f8e55afef559df7cd10796854c495aba9c36cee0f6c8d55cb97e0a3432ad2da1",
+        "name": "Carla Hall",
+        "description": "Thanks to the national attention she earned during the fifth season of Top Chef and as host of The Chew, Carla Hall might be the most visible Black chef in America. She celebrates “cooking with love” or preparing food from your soul to nourish the soul of others. The Nashville native fell in love with food while modeling in Europe and decided to become a chef, blending classic French technique and Southern influence.",
+        "experience": "4.9-years",
+        "likes": "10.2K",
+        "recipe": "Zaalouk",
+        "number": "8",
+        "ingredient": "roasted eggplant, tomatoes, garlic, and a blend of spices, concentrated tomato, parsley",
+        "method": "Preheat the oven to 400°F (200°C).Cut the eggplants in half lengthwise and brush the cut sides with olive oil. Place them on a baking sheet, cut side down, and bake in the preheated oven for 20-30 minutes or until the eggplants are soft and the skin is blistered.Let the eggplants cool, then scoop out the flesh and discard the skin.",
+        "rating": "4.2"
+    },
+    {
+        "id": "5",
+        "image": "https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-holds-salad-upside-down-isolated-orange-background-with-copy-space_141793-34968.jpg?w=900&t=st=1683024032~exp=1683024632~hmac=a2d8b6e5a4890d98c34d5f58d80c2e0ea140f0cfee8b8ab25afbccae2a20fc98",
+        "name": "Lazarus Lynch",
+        "description": "In 2021, Lazarus Lynch became the first Black, queer chef to cook at the Met Gala, but that far from his only achievement. He a two-time Chopped Champion winner, has hosted and starred in multiple food shows and written his own book, Son of a Southern Chef.",
+        "experience": "4.0-years",
+        "likes": "11.2K",
+        "recipe": "Kedjenou Chicken",
+        "number": "7",
+        "ingredient": "chicken thighs, medium tomatoes, concentrated tomato, parsley, coriander",
+        "method": "Season the chicken with salt and black pepper. Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes. Remove the chicken from the pot and set it aside.Return the chicken to the pot and add enough water or chicken broth to cover the chicken. Bring the mixture to a boil, then reduce the heat to low and cover the pot tightly.",
+        "rating": "4.1"
+    },
+    {
+        "id": "6",
+        "image": "https://img.freepik.com/free-photo/confident-middle-aged-male-cook-chef-uniform-holding-rolling-pin-points-finger-side-yellow-wall-with-copy-space_141793-36372.jpg?w=996&t=st=1683024040~exp=1683024640~hmac=4bd9c8268d2b678acdc14e0628d87a92d7df28931795dbe3ea6f1cdba8ed96ba",
+        "name": "Bryant Terry",
+        "description": "Food justice activist and James Beard Award-winner Bryant Terry wants to create a more sustainable food system and inspire people everywhere to make healthy eating choices. Named one of “9 People Who Are Changing the Future of Food” by Fast Company, he is chef-in-residence at the Museum of the African Diaspora (MoAD) where he creates content about food, farming, health, activism and culture.",
+        "experience": "4.3-years",
+        "likes": "11.1K",
+        "recipe": "Moroccan Lentil Soup",
+        "number": "3",
+        "ingredient": "lentils, vegetable oil, concentrated tomato, large onion, coriander",
+        "method": "Add the chopped onion and sauté for 3-5 minutes or until the onion is soft and translucent.Add the ground cumin, paprika, ginger, cinnamon, turmeric, cayenne pepper (if using), salt, and black pepper to the pot. Stir well to combine.Serve the Moroccan Lentil Soup hot with a wedge of lemon on the side.Enjoy your homemade Moroccan Lentil Soup!",
+        "rating": "4.0"
+    }
+]
